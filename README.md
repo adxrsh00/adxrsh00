@@ -6,7 +6,6 @@
 
 <a href="https://twitter.com/Iadxrsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Iadxrsh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adarsh-chourasia-a0353920b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adarsh-chourasia-a0353920b/" height="30" width="40" /></a>
-
 <a href="https://instagram.com/adxrsh__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adxrsh__" height="30" width="40" /></a>
 
 </p>
