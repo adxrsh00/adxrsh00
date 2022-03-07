@@ -16,14 +16,7 @@
 
 <hr>
 
-<a href="https://api.daily.dev/adxrsh00" target="_blank">
-    <img
-      width="325"
-      align="right"
-      src="https://api.daily.dev/devcards/097abfe82d1d481a9cf1629abdc8bb1e.png?r=d2d"
-      alt="Adarsh's Dev Card"
-    />
-  </a>   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adxrsh00&show_icons=true&locale=en&layout=compact?theme=onedark" alt="adxrsh00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adxrsh00&show_icons=true&locale=en" alt="adxrsh00" /></p>
 
